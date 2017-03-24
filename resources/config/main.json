@@ -1,0 +1,5 @@
+{
+    "cache_path": "../runtime/cache",
+    "log_path": "../runtime/log",
+    "templates_path": "../resources/templates"
+}
